@@ -1,0 +1,16 @@
+{
+  "name": "jest-helper-cli",
+  "version": "1.0.0",
+  "description": "Tool CLI for jest ",
+  "main": "index.js",
+  "author": "Tri Le",
+  "license": "MIT",
+  "bin": {
+    "jest-helper-cli": "./bin/jest-helper-cli"
+  },
+  "dependencies": {
+    "@typescript-eslint/parser": "^7.9.0",
+    "esprima": "^4.0.1",
+    "typescript": "^5.4.5"
+  }
+}
